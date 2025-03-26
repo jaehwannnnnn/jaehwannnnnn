@@ -11,7 +11,7 @@
 <div align="center">
   
 <!-- most used language -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehwannnnnn)](https://github.com/jaehwannnnnn/github-readme-stats) <!-- Github Status --> ![Jaehwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehwannnnnn&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehwannnnnn)](https://github.com/jaehwannnnnn/github-readme-stats) <!-- Github Status --> ![Jaehwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehwannnnnn&show_icons=true)
 
 </div>
 <!--

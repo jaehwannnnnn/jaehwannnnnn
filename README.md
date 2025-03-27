@@ -5,7 +5,7 @@
 ------
 <!-- Language logo-->
 ### Main Lanauage
-<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev) 
 
 
 <div align="center">
